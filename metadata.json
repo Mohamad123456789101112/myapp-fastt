@@ -1,0 +1,7 @@
+{
+  "name": "متجر Pro",
+  "description": "An Amazon-inspired e-commerce platform for a single seller, featuring a dual-language (Arabic/English) interface, dark/light modes, and a fully responsive design for a seamless shopping experience.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
